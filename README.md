@@ -1,1 +1,3 @@
-# game_app_monetisation_analysis
+This report is prepared for a game developer company who developed Space Brothers, where players have to create their own space programs and try to colonize the galaxy. The goal is to create a monetisation model that balances user experience and profits for the company. 
+
+To pass the first stage, users need to defeat the first boss or build an orbital satellite-assembly system. The current monetisation plan is to show ads while the users pick an item to construct. So we will explore whether this affects users' experience on playing the game, which would be indicated by the completion rate and the length of time needed to finish the first stage. 
